@@ -1,7 +1,7 @@
 CSC (Cheat sheet container)
 ===
 
-List of useful cheat sheet
+List of awesome cheat sheet
 
 
 
